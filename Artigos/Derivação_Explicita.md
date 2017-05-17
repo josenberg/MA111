@@ -7,7 +7,7 @@ Em algumas funções obter uma equação onde o Y está isolado é um trabalho b
 
 Pode ser que até seja possível isolar o Y e determinar uma ou mais funções que expressão essa equação graficamente, porém existem mais jeitos de resolvermos esse tipo de problema; Para encontrar as equações para y' dos exemplos acima basta usarmos a *derivação implicita*.
 
-##Exemplo 1
+## Exemplo 1
 **Se x² + x³ = 25, obtenha y';**
 
 (1) O primeiro passo é derivar os dois lados da função,
@@ -31,7 +31,7 @@ dy/dx = -x/y
 2x + (2y * dy/dx) = 0
 dy/dx = -2x/2y = -x/y
 
-##Exemplo 2
+## Exemplo 2
 ** Encontre y' da função x³ + y³ = 6xy
 
 (1) Vamos derivar ambos os lados da equação e considerar a regra da cadeia para obter y³ e a regra do produto para obtermos 6xy;
