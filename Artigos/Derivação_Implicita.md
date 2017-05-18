@@ -42,7 +42,7 @@ dy/dx = -2x/2y = -x/y
 
 y' = (2y - x²)/y² - 2x.
 
-<img src="https://raw.githubusercontent.com/josenberg/MA111/master/Artigos/Images/Deriva%C3%A7%C3%A3o_Implicita/01.png" alt="x^2 + x^2 = 25> 
+![x^2 + x^2 = 25](https://raw.githubusercontent.com/josenberg/MA111/master/Artigos/Images/Deriva%C3%A7%C3%A3o_Implicita/01.png)
 
 ##Resumindo
 - Deriva ambos os lados
