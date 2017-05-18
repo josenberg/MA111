@@ -32,19 +32,17 @@ dy/dx = -x/y
 dy/dx = -2x/2y = -x/y
 
 ## Exemplo 2
-** Encontre y' da função x³ + y³ = 6xy
+**Encontre y' da função x³ + y³ = 6xy**
 
 (1) Vamos derivar ambos os lados da equação e considerar a regra da cadeia para obter y³ e a regra do produto para obtermos 6xy;
 
 3x² + 3y*y' = 6xy' + 6y  ou x² + y²*y' = 2xy' + 6y
 
-(2) Agora isolamos o y e teremos:
+(2) Agora isolamos o y' e teremos:
 
-y = (2y - x²)/y² - 2x.
+y' = (2y - x²)/y² - 2x.
 
  
-
-
 
 ##Resumindo
 - Deriva ambos os lados
