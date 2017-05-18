@@ -2,8 +2,10 @@
 
 Em algumas funções obter uma equação onde o Y está isolado é um trabalho bem dificil, por exemplo as funções
 
-* x² + y² = 25
-* X³ + y³ = 6xy
+![x^2 + x^2 = 25](https://raw.githubusercontent.com/josenberg/MA111/master/Artigos/Images/Deriva%C3%A7%C3%A3o_Implicita/01.png)
+
+![x^3 + x^3 = 6xy](https://raw.githubusercontent.com/josenberg/MA111/master/Artigos/Images/Deriva%C3%A7%C3%A3o_Implicita/02.png)
+
 
 Pode ser que até seja possível isolar o Y e determinar uma ou mais funções que expressão essa equação graficamente, porém existem mais jeitos de resolvermos esse tipo de problema; Para encontrar as equações para y' dos exemplos acima basta usarmos a *derivação implicita*.
 
@@ -41,8 +43,6 @@ dy/dx = -2x/2y = -x/y
 (2) Agora isolamos o y' e teremos:
 
 y' = (2y - x²)/y² - 2x.
-
-![x^2 + x^2 = 25](https://raw.githubusercontent.com/josenberg/MA111/master/Artigos/Images/Deriva%C3%A7%C3%A3o_Implicita/01.png)
 
 ##Resumindo
 - Deriva ambos os lados
