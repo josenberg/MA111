@@ -12,14 +12,14 @@ Pode ser que até seja possível isolar o Y e determinar uma ou mais funções q
 
 (1) O primeiro passo é derivar os dois lados da função,
 d(x² + y²)/dx = d(25)/dx
-d(x²)/dx + d(y²)/dx = 0 
+d(x²)/dx + d(y²)/dx = 0
 
 (2) Encontrar a derivada do primeiro elemento dessa soma
 f(x) = x²
 f'(x) = 2x
 
 (3) Notando que y está é uma função dependende de x podemos usar a regra da cadeia para deriva-la:
- 
+
 d(y²)/dx = d(y²)/dy * d(y)/dx = 2y * dx/dy
 
 - Isolamos a variavel dx/dy e obteremos
@@ -42,10 +42,8 @@ dy/dx = -2x/2y = -x/y
 
 y' = (2y - x²)/y² - 2x.
 
- 
+<img src="https://raw.githubusercontent.com/josenberg/MA111/master/Artigos/Images/Deriva%C3%A7%C3%A3o_Implicita/01.png" alt="x^2 + x^2 = 25> 
 
 ##Resumindo
 - Deriva ambos os lados
-- Resolva o máximo possivel ambos os lados 
-
-
+- Resolva o máximo possivel ambos os lados
